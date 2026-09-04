@@ -4,3 +4,4 @@ venv/
 __pycache__/
 *.pyc
 .pytest_cache/
+student_career_ai.sql

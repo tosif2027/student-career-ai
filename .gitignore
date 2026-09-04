@@ -1,0 +1,7 @@
+# Database dump
+student_career_ai.sql
+
+# Environment files
+.env
+.env.*
+!.env.example
